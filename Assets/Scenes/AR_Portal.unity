@@ -8333,7 +8333,7 @@ PrefabInstance:
     - target: {fileID: 2689293364034051149, guid: 64859e4afa563934ab64a0abb1ca7a60,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 60
+      value: 80
       objectReference: {fileID: 0}
     - target: {fileID: 2689293364034051149, guid: 64859e4afa563934ab64a0abb1ca7a60,
         type: 3}
@@ -8363,6 +8363,11 @@ PrefabInstance:
     - target: {fileID: 2794454709511513882, guid: 64859e4afa563934ab64a0abb1ca7a60,
         type: 3}
       propertyPath: m_AdditionalShaderChannelsFlag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4124342614923197262, guid: 64859e4afa563934ab64a0abb1ca7a60,
+        type: 3}
+      propertyPath: m_PresetInfoIsWorld
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8772014013501678472, guid: 64859e4afa563934ab64a0abb1ca7a60,
